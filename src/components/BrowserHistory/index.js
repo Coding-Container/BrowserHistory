@@ -145,7 +145,7 @@ class BrowserHistory extends Component {
               ))}
             </ul>
           ) : (
-            <p>There is no history to show</p>
+            <p>There is no history to Show</p>
           )}
         </div>
       </div>
